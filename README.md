@@ -1,6 +1,6 @@
 # Vosk-speech-recognition-offline
 
-# Voice-Controlled Lamp with Firebase and Vosk
+## Voice-Controlled Lamp with Firebase and Vosk
 
 This project implements a voice-controlled lamp system using Firebase Realtime Database and the Vosk speech recognition library. The system allows users to control a lamp using voice commands, with the server processing the commands and updating the lamp state in Firebase.
 
