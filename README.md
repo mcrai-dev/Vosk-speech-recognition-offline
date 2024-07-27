@@ -1,0 +1,1 @@
+# Vosk-speech-recognition-offline
